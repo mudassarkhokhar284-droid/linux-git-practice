@@ -1,0 +1,2 @@
+logs/system/sys_error.log:1: ERROR: System Disk Fully 
+logs/app/error.log:1: ERROR: Database Connetion Failed 
